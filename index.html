@@ -3,35 +3,91 @@
     <head>
         <title>Nick Rich; Writer and Editor</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        
         <!-- CSS files -->
-        
-        
-        <!-- script files -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="styles/normalize.css">
+        <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,300,700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Lato:300,100' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="styles/main.css">
         
     </head>
-    <body class="homepage">
+    <body class="homepage" ng-app="nickPortfolio">
         
-        <div class="container container-full">
+        <div class="container">
             
-            <div class="container-half">
+            <!-- Left Static Side -->
+            
+            <div class="container-half static-side">
                 <div class="cover">
                     <div class="cover-alignment">
                         
                         <div class="cover-bio">
-                            <img src="#" class="portrait">
+                            <img src="/assets/nick.jpg" class="portrait">
                             <h1 class="name">Nicholas Rich</h1>
-                            <h6 class="position-title">Freelance Writer & Editor</h6>
+                            <h4 class="position-title">Freelance Writer & Editor</h4>
                             <p>Blah blah blah description.</p>
+                            <button class="resume">Checkout my Resume</button>
+                            
                         </div>
                         
                     </div>
                 </div>
             </div>
             
+            <!-- Right Active Feed -->
             
+            <div class="container-half article-feed">
+                
+                <div class="article-entry">    
+                    <h5 class="article-date">January 2016</h5>
+                    <a href="#"><h3 class="article-title">Title title</h3></a>
+                    <p class="article-snippet">Man braid art party vegan, leggings bespoke lo-fi waistcoat before they sold out vinyl green juice knausgaard taxidermy kogi tofu. Truffaut iPhone mumblecore, yuccie listicle chicharrones crucifix intelligentsia post-ironic. </p>
+                    <a href="#"><h6 class="read-more">Read More</h6></a>
+                </div>
+                <div class="article-entry">    
+                    <h5 class="article-date">January 2016</h5>
+                    <a href="#"><h3 class="article-title">Title title</h3></a>
+                    <p class="article-snippet">blah blah blah...</p>
+                    <a href="#"><h6 class="read-more">Read More</h6></a>
+                </div>
+                <div class="article-entry">    
+                    <h5 class="article-date">January 2016</h5>
+                    <a href="#"><h3 class="article-title">Title title</h3></a>
+                    <p class="article-snippet">blah blah blah...</p>
+                    <a href="#"><h6 class="read-more">Read More</h6></a>
+                </div>
+                <div class="article-entry">    
+                    <h5 class="article-date">January 2016</h5>
+                    <a href="#"><h3 class="article-title">Title title</h3></a>
+                    <p class="article-snippet">blah blah blah...</p>
+                    <a href="#"><h6 class="read-more">Read More</h6></a>
+                </div>
+                <div class="article-entry">    
+                    <h5 class="article-date">January 2016</h5>
+                    <a href="#"><h3 class="article-title">Title title</h3></a>
+                    <p class="article-snippet">blah blah blah...</p>
+                    <a href="#"><h6 class="read-more">Read More</h6></a>
+                </div>
+                <div class="article-entry">    
+                    <h5 class="article-date">January 2016</h5>
+                    <a href="#"><h3 class="article-title">Title title</h3></a>
+                    <p class="article-snippet">blah blah blah...</p>
+                    <a href="#"><h6 class="read-more">Read More</h6></a>
+                </div>
+                <div class="article-entry">    
+                    <h5 class="article-date">January 2016</h5>
+                    <a href="#"><h3 class="article-title">Title title</h3></a>
+                    <p class="article-snippet">blah blah blah...</p>
+                    <a href="#"><h6 class="read-more">Read More</h6></a>
+                </div>
+                
+            </div>
             
         </div>
     
+    <!-- script files -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="app.js"></script>
+        
     </body>
 </html>

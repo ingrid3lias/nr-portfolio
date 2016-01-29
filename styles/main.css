@@ -1,0 +1,74 @@
+/* Standard Styles */
+
+html {
+    height: 100%;
+}
+
+h1, h2, h3, 
+h4, h5, h6,
+a {
+    font-family: 'Ubuntu';
+    text-decoration: none;
+    color: #333333;
+}
+
+p {
+    font-family: 'Lato';
+    font-size: .75rem;
+}
+
+/* General Container Styles */
+
+.container {
+    width: 100%;
+}
+
+.container-half {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+/* Left Side */
+
+.container-half.static-side {
+    background-image: url(../assets/nick.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+    float: left;
+    height: 100%;
+    position: fixed;
+    align-items: center;
+}
+
+.cover-bio {
+    text-align: center;
+}
+
+.cover-bio .name {
+    font-size: 3.5rem;
+}
+
+.cover-bio .position-title {
+    text-transform: uppercase;
+}
+
+.portrait {
+    display: none;
+}
+
+/* Right Side */
+
+.container-half.article-feed {
+    float: right;
+}
+
+.article-entry {
+    width: 70%;
+    
+    
+}
+
+/* @media */
+

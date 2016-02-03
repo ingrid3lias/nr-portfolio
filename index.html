@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="feedModule">
+<html ng-app="nickApp">
     <head>
         <title>Nick Rich; Writer and Editor</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="styles/main.css">
         
     </head>
-    <body class="homepage" ng-controller="FeedCtrl">
+    <body class="homepage">
         
         <div class="container">
             
@@ -22,11 +22,14 @@
                     <div class="cover-alignment">
                         
                         <div class="cover-bio">
+                            
                             <img src="/assets/test.jpg" class="portrait">
                             <h1 class="name">Nicholas Rich</h1>
                             <h4 class="position-title">Freelance Writer & Editor</h4>
                             <p>Man braid art party vegan, leggings bespoke lo-fi waistcoat before they sold out vinyl green juice knausgaard taxidermy kogi tofu. Truffaut iPhone mumblecore, yuccie listicle chicharrones crucifix intelligentsia post-ironic.</p>
                             <a href="#"><div class="resume-button"><p>Checkout my Resume</p></div></a>
+                            
+    <h1 class="name">I'm a <typer words="['Freelance Writer', 'Copy Editor', 'Translator']" type-time='150' backspace-time='200' start-delay='1500' highlight-background='#2980b9'></typer></h1>
                             
                         </div>
                         
@@ -37,13 +40,6 @@
             <!-- Right Active Feed -->
             
             <div class="container-half article-feed">
-                
-                <div ng-repeat="feed in feeds">
-	               <h2><a href="{{feed.link}}" target="_blank">{{feed.title}}</a></h2>
-	               <p><span ng-repeat="item in feed.entries">
-		           <a href="{{item.link}}" target="_blank">{{item.title}}</a> (<span>{{item.publishedDate | date:'d-MM-yyyy HH:mm'}}</span>)<br />
-	               </span></p>
-                </div>
                 
                 <div class="article-entry">    
                     <h6 class="article-date">January 2016</h6>
@@ -96,8 +92,9 @@
         <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 	    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular-resource.min.js"></script>
-
-        <script src="app.js"></script>
+        
+        <script src="script/app.js"></script>
+        <script src="script/typer.js"></script>
         
     </body>
 </html>

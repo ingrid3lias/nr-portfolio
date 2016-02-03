@@ -24,6 +24,11 @@ angular.module('feedModule', ['ngResource'])
 	})
 	.controller('FeedCtrl', function ($scope, FeedList) {
 		$scope.feeds = FeedList.get();
+    
+        //$scope.filter = function(name) {
+          //  return name === "Nick Rich";
+        //}
+        
 		$scope.$on('FeedList', function (event, data) {
 			$scope.feeds = data;
 		});

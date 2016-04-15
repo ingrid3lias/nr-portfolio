@@ -2,7 +2,7 @@
 title:  "Teaching at a Junior High School in Japan"
 date:   2016-04-10 19:04:23
 categories: [writing]
-tags: [teaching]
+tags: [Teaching]
 ---
 
 Deciding to become a teacher in Japan offers a lot of exciting opportunities to enjoy unique experiences and insight into an amazing culture. But it’s important to know which work environment is best for you, so we’re here to give you the basics about teaching at the junior high school (JHS) level.

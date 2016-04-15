@@ -5,34 +5,58 @@
     <description>Jekyll-Uno - a minimal, responsive theme for Jekyll</description>
     <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//</link>
     <atom:link href="http://joshgerdes.com/jekyll-uno/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Apr 2016 19:39:22 +0900</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 19:39:22 +0900</lastBuildDate>
+    <pubDate>Fri, 15 Apr 2016 09:53:22 +0900</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 09:53:22 +0900</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
-        <title>Test Test</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Teaching at a Junior High School in Japan</title>
+        <description>&lt;p&gt;Deciding to become a teacher in Japan offers a lot of exciting opportunities to enjoy unique experiences and insight into an amazing culture. But it’s important to know which work environment is best for you, so we’re here to give you the basics about teaching at the junior high school (JHS) level.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is a Japanese Junior High School?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Post-elementary school education in Japan is a little different from its Western counterpart, which can be confusing at first. At a JHS in the United States, for example, you’ll typically find students between the ages of 11 to 13 in grades six, seven, and eight, respectively.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;At a junior high school in Japan, also called a chu-gakko (literally, middle school), students are usually between the ages of 13 to 15, and it covers the seventh, eighth and ninth years of a student’s education. However, naming conventions for school years in Japan are a bit different, as they refer to the time spent at a particular type of school, not the overall time in the education system. At a JHS in Japan, the grade levels are first year (ichi-nen-sei), second year (ni-nen-sei) and third year (san-nen-sei), respectively. Class sizes vary depending on the area, but are typically between 28 to 40 students per class.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It’s also worth noting that junior high schools in Japan all look relatively similar, regardless of their location throughout the country. They’re rectangular, multi-floor buildings with a large school ground for sports activities, and may have various other facilities like a pool. It often feels like once you’ve seen one, you’ve seen them all.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Day-to-Day&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Every student in a public junior high school will wear a school uniform that, while similar, is unique to their school. The concept of a homeroom also isn’t strange in Western education, but a homeroom at a chu-gakko is the room where assigned students will have all of their classes except gym, cooking, art, and some science lessons. Throughout the day, teachers float in and out of the rooms to teach their assigned subjects, with students staying put. Classes are typically 50 minutes long, with four in the morning, a break for lunch, and then two in the afternoon, though sometimes classes will be shortened to 45 minutes to make time for assemblies.&lt;/p&gt;
+
+&lt;p&gt;This brings us to after-school club activities, or bukatsu-do, often simply shortened to bukatsu. In junior high school, all students are strongly encouraged to join an after-school club to help foster friendship with schoolmates and teachers, and develop a greater sense of loyalty and belonging to the school. The variety and number of clubs depends on the size and resources of the school, but they’re often related to sports, music, art and hobbies. Regardless of the club, students are required to attend every day, and participate in events after school, on weekends and even during holidays.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting that, as a teacher, you’ll have plenty of opportunity to visit these clubs and see how they work, and what sorts of things they actually get up to. Often the teachers in charge of the clubs will invite you to check them out, and maybe even participate. Just make sure they know that you’re visiting—and not joining—as you’ll be subject to all the obligations of a normal club member if they think you’ve signed up!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where You Come In&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Your actual job as an English teacher at a JHS will vary depending on the type of school you’re at and the needs and expectations of the faculty. But there’s a general structure to help you know what you should expect.&lt;/p&gt;
+
+&lt;p&gt;First, you’ll basically never be alone in a classroom, unlike at an eikaiwa (English conversation school), or during private lessons. There will always be a Japanese teacher of English (JTE) in the room, although their role in class will depend on their personality and teaching style, as well as potential contractual restrictions depending on whether you’re directly employed by the board of education or working for an external contractor.&lt;/p&gt;
+
+&lt;p&gt;Some JTEs will take charge of a classroom, and utilize your English abilities to help iron out pronunciation issues, introduce new vocabulary, and facilitate learning activities. Other times, JTEs will take the back seat and you’ll lead the entire class, with the JTE stepping in to help demonstrate activities with you, or provide clarification to students when necessary. You shouldn’t be speaking Japanese in the class, but understanding it definitely helps you pick up on comprehension problems and identifying where students are struggling.&lt;/p&gt;
+
+&lt;p&gt;The most important thing is to firmly establish what your role in the classroom is with your JTEs so you can plan lessons accordingly, and not be caught by surprise and left open-mouthed in front of 30-plus students.&lt;/p&gt;
+
+&lt;p&gt;A point worth noting is that classes in JHS aren’t distinguished by academic ability the way they might be in other school systems. In fact, Japanese classes are intentionally balanced so no one class is a powerhouse academically or athletically, under the belief that stronger students should learn to support the weaker ones. This means that in a class of 35, there might be some students at the top of the class who knock whatever you’re teaching them out of the park, while in that same class there will likely be students who struggle with English and feel frustrated and want to give up.&lt;/p&gt;
+
+&lt;p&gt;This can make it incredibly difficult to prepare comprehensive lesson plans that cater to all levels. The key is to foster a classroom atmosphere conducive to learning, regardless of academic ability. Group activities with roles where everyone can participate and feel like they’re contributing are a great way to get around this issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While there’s no real way to prepare yourself for every eventuality that might come up while teaching at a junior high school in Japan, one of the biggest takeaways from my experience is simply this: be flexible. It’s a vague but essential piece of advice! Every school, every teacher, and every class is different, and so flexibility is the key to building good relationships with your coworkers and students, and making your stay at your school a positive experience for everyone involved.&lt;/p&gt;
+
+&lt;p&gt;If any of this sounds scary, forgive me—it isn’t. While the job can be difficult or frustrating at times (what job isn’t?), it can also be incredibly fun and rewarding (I’ve never had a job where 1,000 people were so excited to say “hello” to me every day!). Once you understand the teaching methods that work for you, you’ll wonder what you were worried about in the first place.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://allabout-japan.com/en/article/2552/&quot;&gt;Original Post&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 09 Jan 2016 00:04:23 +0900</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 11 Apr 2016 04:04:23 +0900</pubDate>
+        <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/teaching-jhs-japan/</link>
+        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/teaching-jhs-japan/</guid>
         
-        <category>jekyll</category>
+        <category>teaching</category>
         
         
         <category>writing</category>
